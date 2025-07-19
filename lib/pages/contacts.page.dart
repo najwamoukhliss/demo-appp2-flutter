@@ -4,44 +4,44 @@ import 'package:demo_app_2/widgets/mydrawer.widget.dart';
 class ContactsPage extends StatelessWidget {
   final List<Map<String, String>> contacts = [
     {
-      'name': 'Saad El Mabrouk',
-      'email': 'saad.elmabrouk@icloud.com',
+      'name': 'Najwa Moukhliss',
+      'email': 'najwa.moukhliss@enset.com',
       'phone': '+212 612345678'
     },
     {
-      'name': 'Kylian Mbappe.',
-      'email': 'k.mbappe@realmadrid.com',
-      'phone': '+34 623456789'
+      'name': 'Amina matil',
+      'email': 'M.amina@enset.com',
+      'phone': '+212 623456789'
     },
     {
-      'name': 'Fede Valverdi',
-      'email': 'f.valverde@example.com',
+      'name': 'Hajar ouma',
+      'email': 'O.hajar@enset.com',
       'phone': '+34 634510290'
     },
     {
-      'name': 'Arda Guler',
-      'email': 'a.guler@realmadrid.com',
-      'phone': '+34 634712890'
+      'name': 'Souad zriouil',
+      'email': 'souad.zriouil@enset.com',
+      'phone': '+212 634712890'
     },
     {
       'name': 'Brahim Diaz',
-      'email': 'b.diaz@realmadrid.com',
-      'phone': '+34 634567890'
+      'email': 'b.Brahim@enset.com',
+      'phone': '+212 634567890'
     },
     {
-      'name': 'Achraf Hakimi',
-      'email': 'a.hakimi@psg.com',
-      'phone': '+33 630123890'
+      'name': 'Achraf hakou',
+      'email': 'a.hakimi@enset.com',
+      'phone': '+212 630123890'
     },
     {
-      'name': 'Yassine bounou',
-      'email': 'y.bounou@hilal.com',
-      'phone': '+966 630123890'
+      'name': 'Yassine benkhaled',
+      'email': 'y.bounou@enset.com',
+      'phone': '+212 630123890'
     },
     {
-      'name': 'Dean Huijsen',
-      'email': 'd.huijsen@realmadrid.com',
-      'phone': '+34 630123980'
+      'name': 'anass galal',
+      'email': 'd.galal@enset.com',
+      'phone': '+212 630123980'
     },
   ];
 

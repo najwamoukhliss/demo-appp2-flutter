@@ -3,14 +3,12 @@ import 'package:demo_app_2/widgets/mydrawer.widget.dart';
 
 class GalleryPage extends StatelessWidget {
   final List<String> imagePaths = [
-    'assets/images/IMG_1.JPG',
+    'assets/images/IMG_1.jpg',
     'assets/images/IMG_2.PNG',
     'assets/images/IMG_3.JPG',
     'assets/images/IMG_4.jpg',
     'assets/images/IMG_6.jpeg',
     'assets/images/IMG_7.jpeg',
-    'assets/images/IMG_8.jpeg',
-    'assets/images/IMG_9.jpeg'
   ];
 
   @override
