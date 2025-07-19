@@ -19,11 +19,11 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
 
 <table>
   <tr>
-    <td><img src="assets/images/screenshots/menu.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/counter.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/contacts.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/weather.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/gallery.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/menu.JPEG" width="200"/></td>
+    <td><img src="assets/images/screenshots/counter.JPEG" width="200"/></td>
+    <td><img src="assets/images/screenshots/contacts.JPEG" width="200"/></td>
+    <td><img src="assets/images/screenshots/weather.JPEG" width="200"/></td>
+    <td><img src="assets/images/screenshots/gallery.JPEG" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Drawer Menu</b></td>
