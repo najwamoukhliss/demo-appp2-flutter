@@ -22,7 +22,7 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
     <td><img src="assets/images/screenshots/menu.jpeg" width="200"/></td>
     <td><img src="assets/images/screenshots/counter.jpeg" width="200"/></td>
     <td><img src="assets/images/screenshots/contacts.jpeg" width="200"/></td>
-    <td><img src="assets/images/screenshots/weather.jpeg" width="200"/></td>
+    <td><img src="assets/images/screenshots/wether.jpeg" width="200"/></td>
     <td><img src="assets/images/screenshots/gallery.jpeg" width="200"/></td>
   </tr>
   <tr>
